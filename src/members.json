@@ -1,9 +1,5 @@
 [
     {
-        "member": "vejas",
-        "url": "https://www.vejas.zip/"
-    },
-    {
         "member": "lexm",
         "url": "http://lexm.leprd.space/"
     },
@@ -98,5 +94,9 @@
     {
         "member": "satr14",
         "url": "https://satr14.my.id/?webring=hackclub"
-    }
+    },
+    {
+        "member": "vejas",
+        "url": "https://www.vejas.zip/"
+    },
 ]
